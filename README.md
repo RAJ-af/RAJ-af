@@ -1,7 +1,7 @@
 # 🌟 Welcome to Raj's Empire! 🚀
 
 <div align="center">
-  <img src="https://i.ibb.co/S9S8S5B/banner.png" width="100%" alt="Raj's Cinematic Banner" />
+  <img src="https://i.ibb.co/7Nz5jzVs/file-00000000fa6471faaf7e224bf95d87a2.png" width="100%" alt="Raj's Cinematic Banner" />
 </div>
 
 ---
