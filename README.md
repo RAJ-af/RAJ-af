@@ -1,7 +1,7 @@
 # 🌟 Welcome to Raj's Empire! 🚀
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&text=Welcome%20to%20Raj's%20World&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://i.ibb.co/S9S8S5B/banner.png" width="100%" alt="Raj's Cinematic Banner" />
 </div>
 
 ---
