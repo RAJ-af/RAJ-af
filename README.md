@@ -4,14 +4,19 @@
   <img src="https://i.ibb.co/7Nz5jzVs/file-00000000fa6471faaf7e224bf95d87a2.png" width="100%" alt="Raj's Cinematic Banner" />
 </div>
 
+<div align="center">
+  <h3>🚀 Founder | Architect | Visionary</h3>
+  <p><i>"Building meaningful solutions and turning ideas into impact."</i></p>
+</div>
+
 ---
 
 ### 👨‍💻 About Me
 Hello! I'm **Raj**, an AI-powered entrepreneur and builder. I'm obsessed with creating **Asymmetric Risk-Reward** systems and **Micro-SaaS** products. I believe in **High Sweat Equity and Low Capital**—building massive value through sheer intelligence and hard work. 🛠️🧠
 
-- 🛠️ Currently building **comti** (The future of Skill Exchange)
-- 📈 Focus: Scalable architectures & Niche-focused digital services
-- ⚡ Vision: Turning complex problems into simple, high-upside solutions
+- 🛠️ **Current Mission:** Building **comti** (The future of Skill Exchange)
+- 📈 **Focus:** Scalable architectures & Niche-focused digital services
+- ⚡ **Vision:** Turning complex problems into simple, high-upside solutions
 
 ---
 
@@ -27,24 +32,31 @@ Hello! I'm **Raj**, an AI-powered entrepreneur and builder. I'm obsessed with cr
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Intelligence
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAJ-af&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-af&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RAJ-af&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJ-af&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-af&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJ-af&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Let's Connect
 <p align="left">
-  <a href="https://t.me/username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/Its_raj113">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://linkedin.com/in/your_username">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/gh-profile-readme-generator/image/github-profile-footer.png" width="100%" />
+  <img src="https://komarev.com/gh-profile-readme-generator/image/github-profile-footer.png" width="100%" alt="Footer" />
 </div>
