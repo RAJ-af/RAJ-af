@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Founder | Architect | Visionary</h3>
+  <h3 style="color: #a9bedf;">🚀 Founder | Architect | Visionary</h3>
   <p><i>"Building meaningful solutions and turning ideas into impact."</i></p>
 </div>
 
@@ -34,15 +34,12 @@ Hello! I'm **Raj**, an AI-powered entrepreneur and builder. I'm obsessed with cr
 
 ### 📊 My GitHub Intelligence
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAJ-af&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RAJ-af&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-af&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-af&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJ-af&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJ-af&theme=tokyonight" width="100%" />
 </p>
 
 ---
@@ -57,6 +54,8 @@ Hello! I'm **Raj**, an AI-powered entrepreneur and builder. I'm obsessed with cr
   </a>
 </p>
 
+<br/>
+
 <div align="center">
-  <img src="https://komarev.com/gh-profile-readme-generator/image/github-profile-footer.png" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/render?type=thin&color=auto&text=Built%20with%20Love%20by%20Riya%20AI%20✨&fontSize=20" width="100%" />
 </div>
